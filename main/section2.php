@@ -1,6 +1,6 @@
 <?php
 /**
- * VELORA — Part 2 (sections_part2.php)
+ * VELORA — Part 2 (section2.php)
  * Developer : [Nama Teman] — isi bagian Journal, Team, About (Footer)
  * Sections  : Journal · Team · About / Footer
  *
