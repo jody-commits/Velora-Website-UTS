@@ -1,7 +1,7 @@
 
 <?php
 /**
- * VELORA — Part 1 (sections_part1.php)
+ * VELORA — Part 1 (section1.php)
  * Developer : Tom
  * Sections  : Navbar · Hero · Stats · Categories · Featured · Product of the Week
  *
